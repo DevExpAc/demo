@@ -1,1 +1,3 @@
 #LICENSE
+
+updating license number to 1.0
